@@ -1,3 +1,2 @@
-RSpec.configure do |config|
-  config.order = :default
-end
+puts "Hello Queen Elizabeth"
+input = gets
